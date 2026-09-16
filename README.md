@@ -39,4 +39,4 @@ apt install python3-pip -y
 5. start bot
 -------------------------
 
-python3 Kai.py
+ python3 Kai.py
